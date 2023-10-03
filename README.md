@@ -11,16 +11,16 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Uchiborii&theme=dracula&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Uchiborii&theme=calm&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uchiborii&langs_count=8&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uchiborii&langs_count=8&theme=calm" />
 </a>
 
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Uchiborii&theme=dracula)](https://github-readme-streak-stats.herokuapp.com/?user=Uchiborii&theme=dracula)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Uchiborii&theme=calm)](https://github-readme-streak-stats.herokuapp.com/?user=Uchiborii&theme=calm)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uchiborii&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uchiborii&theme=calm)
 
 ## Languages
 
